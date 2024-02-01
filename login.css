@@ -9,7 +9,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(/https://github.com/Anuj-200404/coderx/blob/main/pexels-johannes-plenio-1103970.jpg) no-repeat;
+    background: url(https://github.com/Anuj-200404/coderx/blob/main/pexels-johannes-plenio-1103970.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
